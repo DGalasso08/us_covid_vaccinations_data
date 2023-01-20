@@ -1,6 +1,3 @@
-USE projects;
-SELECT *
-FROM us_vacc;
 
 /* 
 
